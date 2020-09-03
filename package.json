@@ -22,7 +22,7 @@
     "foreman": "2.0.x",
     "html-webpack-plugin": "2.17.x",
     "json-server": "0.10.x",
-    "node-sass": "4.2.x",
+    "node-sass": "4.13.x",
     "postcss-loader": "2.0.x",
     "react-dev-utils": "3.0.0",
     "react-error-overlay": "1.0.7",
